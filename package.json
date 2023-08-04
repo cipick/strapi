@@ -1,12 +1,12 @@
 {
-  "name": "strapi",
+  "name": "strapi-cip",
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/cipick/strapi/issues"
   },
   "version": "4.12.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/cipick/strapi.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "author": {
@@ -14,13 +14,6 @@
     "email": "hi@strapi.io",
     "url": "https://strapi.io"
   },
-  "maintainers": [
-    {
-      "name": "Strapi Solutions SAS",
-      "email": "hi@strapi.io",
-      "url": "https://strapi.io"
-    }
-  ],
   "workspaces": [
     "packages/*",
     "packages/*/*",
